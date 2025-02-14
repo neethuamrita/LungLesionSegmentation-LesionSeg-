@@ -1,8 +1,8 @@
 # LungLesionSegmentation-LesionSeg-
 
 TEAM MEMBERS:
-KARTHIK A,
 NEETHU R,
+KARTHIK A,
 GOLLA RAM
 
 COLLABORATOR:
